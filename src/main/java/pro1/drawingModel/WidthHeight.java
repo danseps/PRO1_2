@@ -10,4 +10,12 @@ public abstract class WidthHeight extends XY {
         this.width = width;
         this.height = height;
     }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
 }

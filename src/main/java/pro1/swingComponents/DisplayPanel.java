@@ -9,7 +9,7 @@ public class DisplayPanel extends JPanel {
 
     Drawable drawable = null;
 
-    public DisplayPanel(){
+    public DisplayPanel() {
         this.setBackground(Color.WHITE);
     }
 

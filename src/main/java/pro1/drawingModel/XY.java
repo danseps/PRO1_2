@@ -8,4 +8,12 @@ public abstract class XY implements Drawable {
         this.x = x;
         this.y = y;
     }
+
+    public int getY() {
+        return y;
+    }
+
+    public int getX() {
+        return x;
+    }
 }

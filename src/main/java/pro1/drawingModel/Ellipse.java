@@ -6,8 +6,12 @@ public class Ellipse extends WidthHeight {
     private String color;
 
     public Ellipse(int x, int y, int width, int height, String color) {
-        super(x,y,width,height);
+        super(x, y, width, height);
         this.color = color;
+    }
+
+    public String getColor() {
+        return this.color;
     }
 
     @Override
