@@ -1,6 +1,6 @@
 # PRO1_2
 
-Projekt 1 pro předmět PRO1 na UHK FIM
+Projekt 2 pro předmět PRO1 na UHK FIM
 
 Jméno a přijmení: Daniel Šeps (sepsda1)
 
